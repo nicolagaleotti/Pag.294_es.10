@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio_10", "Esercizio_10\Esercizio_10.csproj", "{07056D0D-612B-437F-8230-4AEA3B09D409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo", "Metodo\Metodo.csproj", "{2C54E375-8CCC-48AF-9CA3-32E84858A70F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07056D0D-612B-437F-8230-4AEA3B09D409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07056D0D-612B-437F-8230-4AEA3B09D409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07056D0D-612B-437F-8230-4AEA3B09D409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07056D0D-612B-437F-8230-4AEA3B09D409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C54E375-8CCC-48AF-9CA3-32E84858A70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C54E375-8CCC-48AF-9CA3-32E84858A70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C54E375-8CCC-48AF-9CA3-32E84858A70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C54E375-8CCC-48AF-9CA3-32E84858A70F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F136C84-3A75-4F9E-96BE-CAC4F41D80B7}
+	EndGlobalSection
+EndGlobal
