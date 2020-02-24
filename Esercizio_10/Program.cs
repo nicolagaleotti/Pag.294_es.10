@@ -30,6 +30,7 @@ namespace Esercizio_10
                 Console.WriteLine(a[i]);
             }
             Console.ReadLine();
+
         }
     }
 }
