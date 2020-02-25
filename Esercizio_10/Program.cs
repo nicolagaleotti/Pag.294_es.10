@@ -18,7 +18,7 @@ namespace Esercizio_10
             {
                 do
                 {
-                    numero = r.Next();
+                    numero = r.Next(0, n * 3);
                 } while (lista.Contains(numero));
                 lista.Add(numero);
                 a[i] = numero;
